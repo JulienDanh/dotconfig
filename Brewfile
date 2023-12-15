@@ -1,0 +1,5 @@
+tap "homebrew/bundle"
+brew "gh"
+brew "neovim"
+cask "arc"
+cask "iterm2"
