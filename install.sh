@@ -6,3 +6,5 @@ else
     eval "$(/opt/homebrew/bin/brew shellenv)"
 fi
 brew bundle install
+
+echo "source $(brew --prefix)/share/powerlevel10k/powerlevel10k.zsh-theme" >>~/.zshrc

@@ -1,5 +1,6 @@
 tap "homebrew/bundle"
 brew "gh"
 brew "neovim"
+brew "powerlevel10k" 
 cask "arc"
 cask "iterm2"
