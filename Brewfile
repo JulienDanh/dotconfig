@@ -13,7 +13,7 @@ brew "pyenv"
 brew "tmux"
 brew "virtualenv"
 brew "node"
-
+brew "poetry" 
 
 cask "arc"
 cask "iterm2"
